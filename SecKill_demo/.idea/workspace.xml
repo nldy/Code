@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79abe925-92de-48ee-86b0-03f97a143c7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/artifacts/seckill_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/artifacts/seckill_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_context_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_core_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_web_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__redis_clients_jedis_2_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/seckill.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/dao/SeckillDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/dao/SuccessKilledDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/dao/cache/RedisDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/dto/Exposer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/dto/SeckillExecution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/dto/SeckillResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/entity/Seckill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/entity/SuccessKilled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/enums/SeckillStateEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/exception/RepeatKillException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/exception/SeckillCloseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/exception/SeckillException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/service/SeckillService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/java/org/seckill/web/SeckillController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/mapper/SeckillDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/mapper/SuccessKilledDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/spring/spring-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/spring/spring-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/spring/spring-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/sql/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/sql/seckill.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/common/head.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/common/tag.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/c3p0-0.9.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/commons-collections-3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/commons-pool2-2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/jackson-annotations-2.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/jackson-core-2.5.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/jackson-databind-2.5.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/jedis-2.7.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/junit-4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/logback-classic-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/logback-core-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/mybatis-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/mybatis-spring-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.37.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/protostuff-api-1.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/protostuff-collectionschema-1.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/protostuff-core-1.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/protostuff-runtime-1.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-aop-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-beans-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-context-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-core-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-expression-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-jdbc-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-test-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-tx-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-web-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/spring-webmvc-4.1.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/lib/standard-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/resources/js/seckill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/test/java/org/seckill/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/test/java/org/seckill/dao/SeckillDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/test/java/org/seckill/dao/SuccessKilledDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/test/java/org/seckill/dao/cache/RedisDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill-master/src/test/java/org/seckill/service/impl/SeckillServiceImplTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1920">
+              <caret line="128" column="58" selection-start-line="128" selection-start-column="58" selection-end-line="128" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/controller/HelloWorldController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="70" column="8" selection-start-line="69" selection-start-column="2" selection-end-line="70" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="20" selection-start-line="20" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/SecKillApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/Controller/HelloWorldController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/controller/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/mapper/User1Mapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/SeckillDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/User1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/dao/User1Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/MybatisGeneratorApp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/generator/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/generator/generator.config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/SecKillApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dc/sec_kill/controller/HelloWorldController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="29" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sec_kill" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sec_kill" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sec_kill" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sec_kill" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sec_kill" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sec_kill" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sec_kill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecKill_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/generator" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/dc/sec_kill" />
+      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dc.sec_kill" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SecKillApplication">
+    <configuration name="MybatisGeneratorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dc.sec_kill.MybatisGeneratorApp" />
+      <module name="SecKill_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sec_kill [mybatis-generator:generate,-e]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="SecKillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SecKill_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dc.sec_kill.SecKillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MybatisGeneratorApp" />
+      <item itemvalue="Maven.sec_kill [mybatis-generator:generate,-e]" />
+      <item itemvalue="Spring Boot.SecKillApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisGeneratorApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79abe925-92de-48ee-86b0-03f97a143c7c" name="Default Changelist" comment="" />
+      <created>1552737391749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552737391749</updated>
+      <workItem from="1552737399552" duration="2773000" />
+      <workItem from="1552796066428" duration="6353000" />
+      <workItem from="1552810992299" duration="13958000" />
+      <workItem from="1552830978756" duration="4047000" />
+      <workItem from="1552836133844" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27145000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="29" y="23" width="1400" height="764" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HELP.md" />
+    <entry file="file://$PROJECT_DIR$/mvnw" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/SecKill_demo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/mapper/User1Mapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/dao/MybatisModule.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/dao/Module.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="33" column="78" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/MybatisGeneratorApp.java" />
+    <entry file="file://$PROJECT_DIR$/target/classes/com/dc/sec_kill/dao/User1Dao.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/dao/User1Dao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User1Dao.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/User1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/UserKey.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/UserEntityKey.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserEntityMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/UserEntity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/UserWithBLOBs.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="128" column="58" selection-start-line="128" selection-start-column="58" selection-end-line="128" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/controller/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="8" selection-start-line="69" selection-start-column="2" selection-end-line="70" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/SecKillApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dc/sec_kill/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="20" selection-start-line="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

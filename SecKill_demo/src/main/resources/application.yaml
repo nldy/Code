@@ -1,0 +1,43 @@
+server:
+  port: 8088
+
+spring:
+  datasource:
+    name: druidDataSource
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/secKill?useUnicode=true&characterEncoding=UTF-8
+      username: root
+      password: no9173
+      filters: stat
+      max-active: 100
+      initial-size: 1
+      max-wait: 60000
+      min-idle: 1
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      validation-query: select 'x'
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      pool-prepared-statements: true
+      max-open-prepared-statements: 50
+      max-pool-prepared-statement-per-connection-size: 20
+
+#  redis:
+#    database: ${PCO_USER_REDIS_NUMBER}
+#    host: ${PCO_USER_REDIS_HOST}
+#    port: ${PCO_USER_REDIS_PORT}
+#    password: ${PCO_USER_REDIS_PASSWORD}
+#    pool:
+#      max-active: 8
+#      max-wait: -1
+#      max-idle: 8
+#      min-idle: 0
+#    timeout: 0
+
+mybatis:
+  type-aliases-package: com.dc.sec_kill.entity
+  mapper-locations: classpath:mapper/*.xml
+
