@@ -7,14 +7,14 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
       driver-class-name: com.mysql.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/secKill?useUnicode=true&characterEncoding=UTF-8
+      url: jdbc:mysql://localhost:3306/seckill?useUnicode=true&characterEncoding=UTF-8
       username: root
       password: no9173
       filters: stat
-      max-active: 100
+      max-active: 30
       initial-size: 1
       max-wait: 60000
-      min-idle: 1
+      min-idle: 10
       time-between-eviction-runs-millis: 60000
       min-evictable-idle-time-millis: 300000
       validation-query: select 'x'
@@ -40,4 +40,5 @@ spring:
 mybatis:
   type-aliases-package: com.dc.sec_kill.entity
   mapper-locations: classpath:mapper/*.xml
+  config-location: classpath:mybatis-config.xml
 
