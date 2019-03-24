@@ -27,4 +27,11 @@ public class HelloWorldController {
 
         return "age:"+userService.list().getId()+" name:"+userService.list().getName()+" age:"+userService.list().getAge();
     }
+
+    @RequestMapping("/kill")
+    @ResponseBody
+    public String killDemo() {
+
+        return userService.getbyid().toString();
+    }
 }
