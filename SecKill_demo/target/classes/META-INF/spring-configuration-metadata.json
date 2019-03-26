@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.dc.sec_kill.entity.Person",
+      "sourceType": "com.dc.sec_kill.entity.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.dc.sec_kill.entity.Person",
+      "defaultValue": 0
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.dc.sec_kill.entity.Person"
+    }
+  ],
+  "hints": []
+}

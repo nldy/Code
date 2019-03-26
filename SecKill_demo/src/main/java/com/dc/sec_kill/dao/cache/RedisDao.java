@@ -6,16 +6,25 @@ import com.dyuproject.protostuff.ProtostuffIOUtil;
 import com.dyuproject.protostuff.runtime.RuntimeSchema;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 
+//@Component
+//@ConfigurationProperties(prefix = "redisdao")
 public class RedisDao {
 
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
 	private final JedisPool jedisPool;
 
+	private String ip;
+
+	private int port;
+
 	private RuntimeSchema<Seckill> schema = RuntimeSchema.createFrom(Seckill.class);
+
 
 	public RedisDao(String ip, int port) {
 		jedisPool = new JedisPool(ip, port);

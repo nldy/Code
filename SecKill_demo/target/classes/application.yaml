@@ -26,20 +26,30 @@ spring:
       max-pool-prepared-statement-per-connection-size: 20
       connection-error-retry-attempts: 2
 
-#  redis:
-#    database: ${PCO_USER_REDIS_NUMBER}
-#    host: ${PCO_USER_REDIS_HOST}
-#    port: ${PCO_USER_REDIS_PORT}
-#    password: ${PCO_USER_REDIS_PASSWORD}
-#    pool:
-#      max-active: 8
-#      max-wait: -1
-#      max-idle: 8
-#      min-idle: 0
-#    timeout: 0
+
+  redis:
+    database: 0
+    host: localhost
+    password:
+    port: 6379
+    jedis:
+      pool:
+        max-active: 8
+        max-wait: -1
+        max-idle: 8
+        min-idle: 0
+    timeout: 0
 
 mybatis:
   type-aliases-package: com.dc.sec_kill.entity
   mapper-locations: classpath:mapper/*.xml
   config-location: classpath:mybatis-config.xml
 
+
+redisdao:
+  ip: localhost
+  port: 6379
+
+person:
+  name: li
+  age: 10

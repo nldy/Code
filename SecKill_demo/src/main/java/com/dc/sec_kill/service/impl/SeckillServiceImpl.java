@@ -1,7 +1,5 @@
 package com.dc.sec_kill.service.impl;
 
-
-
 import com.dc.sec_kill.dao.SeckillDao;
 import com.dc.sec_kill.dao.SuccessKilledDao;
 import com.dc.sec_kill.dao.cache.RedisDao;
@@ -13,10 +11,12 @@ import com.dc.sec_kill.enums.SeckillStateEnum;
 import com.dc.sec_kill.exception.RepeatKillException;
 import com.dc.sec_kill.exception.SeckillCloseException;
 import com.dc.sec_kill.exception.SeckillException;
+import com.dc.sec_kill.service.CacheService;
 import com.dc.sec_kill.service.SeckillService;
 import org.apache.commons.collections.MapUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.DigestUtils;
@@ -38,15 +38,15 @@ public class SeckillServiceImpl implements SeckillService {
     @Resource
     private SuccessKilledDao successKilledDao;
 
-    @Resource
-    private RedisDao redisDao;
+//    @Autowired
+//    private RedisDao redisDao;
+    RedisDao redisDao = new RedisDao("localhost",6379);
 
     // md5盐值字符串，用于混淆MD5
     private final String slat = "skdfjksjdf7787%^%^%^FSKJFK*(&&%^%&^8DF8^%^^*7hFJDHFJ";
 
     @Override
     public List<Seckill> getSeckillList() {
-
         return seckillDao.queryAll(0, 4);
     }
 
@@ -75,9 +75,6 @@ public class SeckillServiceImpl implements SeckillService {
                 // 3.访问redis
                 redisDao.putSeckill(seckill);
             }
-        }
-        if (seckill == null) {
-            return new Exposer(false, seckillId);
         }
         Date startTime = seckill.getStartTime();
         Date endTime = seckill.getEndTime();
