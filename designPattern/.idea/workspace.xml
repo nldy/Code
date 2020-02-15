@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb623fea-8a7e-4466-a315-30d2fe4b82be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="202" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WJyNc5bG1KZUTA1vq9pTMqvuyJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.MyProxyTest">
+    <configuration name="GenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basestudydemo.GenericsTest" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basestudydemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClassLoaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jvmdemo.MyClassLoaderTest" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jvmdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basestudydemo.MyProxyTest" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basestudydemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jvmdemo.Mytest" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jvmdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duoxiancheng.test" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duoxiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.Mytest" />
+      <item itemvalue="Application.GenericsTest" />
+      <item itemvalue="Application.MyClassLoaderTest" />
+      <item itemvalue="Application.MyProxyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyProxyTest" />
+        <item itemvalue="Application.GenericsTest" />
+        <item itemvalue="Application.MyClassLoaderTest" />
+        <item itemvalue="Application.Mytest" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb623fea-8a7e-4466-a315-30d2fe4b82be" name="Default Changelist" comment="" />
+      <created>1578881952836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578881952836</updated>
+      <workItem from="1578881957821" duration="7564000" />
+      <workItem from="1578973310204" duration="3187000" />
+      <workItem from="1579231102528" duration="753000" />
+      <workItem from="1579356713676" duration="853000" />
+      <workItem from="1579402413688" duration="2935000" />
+      <workItem from="1579922591851" duration="2593000" />
+      <workItem from="1580012255579" duration="2712000" />
+      <workItem from="1580270271374" duration="3245000" />
+      <workItem from="1581426474208" duration="885000" />
+      <workItem from="1581502594551" duration="177000" />
+      <workItem from="1581590961877" duration="767000" />
+      <workItem from="1581667047747" duration="2822000" />
+      <workItem from="1581760493395" duration="2375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Notifications" timestamp="1580270418238">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1580270418238" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1581762712147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1580012813406" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1581762712147" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1581763408585">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581698183145" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1581427378835" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1581763408585" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1581763408582">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581698183144" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1581427378834" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1581763408582" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1581763408581">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581698183143" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1581427378833" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1581763408581" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1581763408584">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581698183144" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1581427378835" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1581763408584" />
+    <state x="208" y="33" key="SettingsEditor" timestamp="1581669077021">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="33" key="SettingsEditor/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1581669077021" />
+    <state x="208" y="33" key="SettingsEditor/1440.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1581668834830" />
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578973315480">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1578973315480" />
+    <state x="374" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.796@0.23.1440.796" timestamp="1578881969388" />
+    <state x="97" y="56" key="new project wizard" timestamp="1581426549570">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="56" key="new project wizard/1440.0.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1581426549570" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/designPattern$RemoteControlTest.ic" NAME="RemoteControlTest Coverage Results" MODIFIED="1579923302887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.command.*</FILTER>
+    </SUITE>
+  </component>
+</project>
